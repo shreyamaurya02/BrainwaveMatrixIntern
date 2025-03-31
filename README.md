@@ -25,6 +25,8 @@ Console-Based UI: Simple text-based interface for easy interaction.
 
 Programming Language: Java
 IDE: VS Code
+
+
 -------------------------------------------------------------------------------------------
 ## Hospital Management System
 The Hospital Management System (HMS) is a Java-based console application designed to efficiently manage hospital operations. This system includes functionalities for patient registration, appointment scheduling, electronic health records (EHR), billing, inventory management, and staff administration.
